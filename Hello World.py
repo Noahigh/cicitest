@@ -1,2 +1,2 @@
-# ¾­µäÊ¾Àý·¶Àý
+# print hello world
 print'Hello World!'
