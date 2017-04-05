@@ -1,0 +1,2 @@
+# ¾­µäÊ¾Àý·¶Àý
+print'Hello World!'
