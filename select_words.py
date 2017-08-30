@@ -1,6 +1,6 @@
 """
 敏感词汇筛选
-找出铭感词汇，并反馈
+找出敏感词汇，并反馈
 """
 file_url = r'text_test\filtered.txt'
 
