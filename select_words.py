@@ -27,6 +27,7 @@ else:
         print('Human Rights')
 
 fgh = input('Please input a word: ')
+
 '''语句判断'''
 for value in st_string:
         if(value in fgh):
